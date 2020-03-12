@@ -7,10 +7,18 @@
     tools:context=".MainActivity">
 
     <Button
+<<<<<<< HEAD
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Message"
+        android:text="Press the Button" />
+=======
         android:id="@+id/button6"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="Message"
         android:text="Button" />
+>>>>>>> d022927991c94f7189781e8cbf9bb8a7983bcb41
 
 </RelativeLayout>
